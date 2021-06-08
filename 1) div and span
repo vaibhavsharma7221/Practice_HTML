@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>	divspan</title>
+</head>
+<body>
+<div>this ia a cool
+	story you know me i 
+	know you<div>
+<span>this ia a cool
+	story you know me i 
+	know you<div>
+<div>this is a cool story<span>
+     you know me i know you<span><div>	
+<div>hows athe day todyS</div>
+<span>i love football</span>   	
+</body>
+</html>
