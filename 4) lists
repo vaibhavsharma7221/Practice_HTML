@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>lists</title>
+</head>
+<body>
+	<h1>unordered list</h1>
+
+<div>
+	my typical dinner shopping list:
+    <ul>
+        <li>panner</li>
+        <li>corn-flour</li>
+        <li>ketchup</li>
+        <li>salt</li>
+        <li>onion</li>
+        <li>garlic paste</li>
+     </ul>
+</div>
+
+<div>
+      steps to learn web development:
+      <ol>
+          <li>front-end developmeni
+          	  <ol>
+                 <li>HTML</li>
+                 <li>CSS</li>
+                 <li>JS</li>
+             </ol>
+         </li>
+          
+          <li>databases</li>
+          <li>back-end development</li>
+      </ol>
+</div>      	
+
+
+</body>
+</html>
