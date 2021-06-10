@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Internal links</title>
+</head>
+<body>
+	<h1>Internal Links</h1>
+	<section>
+		We can link to a file in the same directory in the same file as this html file:
+
+		<a href="index.html" title="same dir link">linking to a file in same directory</a>
+
+		<a href="index.html" title="same dir link">
+			<div>div linking to a file in same directory</div>
+		</a>
+	</section>
+
+</body>
+</html>
